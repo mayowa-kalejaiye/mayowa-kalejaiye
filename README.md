@@ -1,12 +1,12 @@
 # 👋 Hi, I’m **@mayowa-kalejaiye**
 
-![hey you there!](https://www.pinterest.com/pin/444308319466586737/) <!-- Replace with a fitting image link -->
+![Hey You There!](https://www.pinterest.com/pin/444308319466586737/) <!-- Replace with a fitting image link -->
 ![Anime Lover](https://www.pinterest.com/pin/25895766602599282/) <!-- Replace with a fitting image link -->
 
 ---
 
 ## 👀 **Interests**
-I’m passionate about **Full-Stack Development** and building innovative digital solutions that bring ideas to life!
+I’m passionate about **Full-Stack Development** and building innovative digital solutions that bring ideas to life! I love combining creativity with technology.
 
 ---
 
@@ -15,17 +15,20 @@ I’m passionate about **Full-Stack Development** and building innovative digita
 - **Django & Django REST Framework**: Exploring advanced features and APIs.  
 - **MySQL**: Coming up next on my tech journey!  
 - **Figma**: Crafting beautiful designs to enhance user experiences.  
-- **PostgreSQL**: Diving into data management and relationships.
+- **PostgreSQL**: Diving into data management and relationships.  
+- **C Programming**: Sharpening my foundational programming skills.  
+- **Python**: Building robust back-end applications.  
 
 ---
 
 ## 💞 **Let’s Collaborate!**
-I’m looking to team up on:
+I’m eager to team up on:
 - Full-stack web development projects  
 - API development  
 - Creative digital solutions  
+- **Startup Projects**: Excited to collaborate on innovative ideas and turn them into reality!
 
-Open to learning and contributing in **React/JS**, and excited to share ideas!
+Open to learning and contributing in **React/JS** and sharing ideas with other passionate developers!
 
 ---
 
@@ -53,9 +56,19 @@ I’m a full-stack developer exploring new tech—currently diving into **React/
 
 ---
 
+## 🚀 **My Tech Stack**
+- **Languages**: Python, JavaScript, C
+- **Frameworks**: Django, Django REST Framework, React
+- **Databases**: MySQL, PostgreSQL
+- **Design**: Figma
+- **Tools**: Git, GitHub, Visual Studio Code
 
 ---
 
+## 🌐 **Let’s Connect!**
+I’m always looking to expand my network. If you’re into tech, startups, or just want to chat, don’t hesitate to reach out!
+
+---
 
 <!---
 mayowa-kalejaiye/mayowa-kalejaiye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
