@@ -10,9 +10,10 @@ I’m passionate about **Full-Stack Development** and building innovative digita
 
 ---
 
-## 🌱 **Currently Learning**
+## 🌱 **Currently Learning/Improving**
 - **React/JS**: Mastering the front-end magic!  
-- **Django & Django REST Framework**: Exploring advanced features and APIs.  
+- **Django & Django REST Framework**: Exploring advanced features and APIs.
+- **Flask**: Building and consuming APIs, with plans to create my own.
 - **MySQL**: Coming up next on my tech journey!  
 - **Figma**: Crafting beautiful designs to enhance user experiences.  
 - **PostgreSQL**: Diving into data management and relationships.  
