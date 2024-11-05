@@ -29,7 +29,7 @@ I’m eager to team up on:
 - Creative digital solutions  
 - **Startup Projects**: Excited to collaborate on innovative ideas and turn them into reality!
 
-Open to learning and contributing in **React/JS** and sharing ideas with other passionate developers!
+Open to learning and contributing in **React/JS**, **Flask**, **Django-rest-framework**, and sharing ideas with other passionate developers!
 
 ---
 
