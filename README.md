@@ -6,17 +6,17 @@
 ---
 
 ## 👀 **Interests**
-I’m passionate about **Full-Stack Development** and building innovative digital solutions that bring ideas to life! I love combining creativity with technology.
+I’m passionate about **Backend Development** and building innovative digital solutions that enhance functionality and performance! I enjoy tackling the challenges of server-side processes and creating robust APIs.
 
 ---
 
 ## 🌱 **Currently Learning/Improving**
-- **React/JS**: Mastering the front-end magic!  
-- **Django & Django REST Framework**: Exploring advanced features and APIs.
+- **Django & Django REST Framework**: Exploring advanced features and API development.
 - **Flask**: Building and consuming APIs, with plans to create my own.
+- **React/JS**: Learning front-end technologies to complement my backend skills.
 - **MySQL**: Coming up next on my tech journey!  
-- **Figma**: Crafting beautiful designs to enhance user experiences.  
 - **PostgreSQL**: Diving into data management and relationships.  
+- **Figma**: Crafting designs to enhance user experiences.  
 - **C Programming**: Sharpening my foundational programming skills.  
 - **Python**: Building robust back-end applications.  
 
@@ -24,12 +24,12 @@ I’m passionate about **Full-Stack Development** and building innovative digita
 
 ## 💞 **Let’s Collaborate!**
 I’m eager to team up on:
-- Full-stack web development projects  
+- Backend-focused web development projects  
 - API development  
 - Creative digital solutions  
 - **Startup Projects**: Excited to collaborate on innovative ideas and turn them into reality!
 
-Open to learning and contributing in **React/JS**, **Flask**, **Django-rest-framework**, and sharing ideas with other passionate developers!
+I’m open to learning and contributing in **Django**, **Flask**, **React**, and sharing ideas with other passionate developers!
 
 ---
 
@@ -46,7 +46,7 @@ He/Him
 ---
 
 ## ⚡ **Fun Fact**
-I’m a full-stack developer exploring new tech—currently diving into **React/JS** and eyeing **MySQL** next! Plus, I’m an anime enthusiast! 🎉
+I’m a full-stack developer exploring new tech—currently diving into **React/JS** while focusing on backend development! Plus, I’m an anime enthusiast! 🎉
 
 > "In a world full of trends, I want to remain a classic." — I strive to build timeless solutions!
 
