@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **@mayowa-kalejaiye**
-
+![Profile Views](https://komarev.com/ghpvc/?username=mayowa-kalejaiye&color=blueviolet)
 ---
 
 ## 👀 **Interests**
@@ -66,7 +66,15 @@ I’m a full-stack developer exploring new tech—currently diving into **React/
 
 ## 🌐 **Let’s Connect!**
 I’m always looking to expand my network. If you’re into tech, startups, or just want to chat, don’t hesitate to reach out!
+## GitHub Stats
 
+![Mayowa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayowa-kalejaiye&show_icons=true&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayowa-kalejaiye-27b560301/)
+[![Dev](https://img.shields.io/badge/Dev-blue?style=for-the-badge&logo=Dev&logoColor=white)](https://dev.to/mayowakalejaiye)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kalejaiyemayowa3@gmail.com)
 ---
 
 <!---
