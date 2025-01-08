@@ -7,7 +7,7 @@ I’m passionate about **Backend Development** and building innovative digital s
 
 ---
 
-## 🌱 **Currently Learning/Improving**
+## 🌱 **Currently Improving**
 - **Django & Django REST Framework**: Exploring advanced features and API development.
 - **Flask**: Building and consuming APIs, with plans to create my own.
 - **React/JS**: Learning front-end technologies to complement my backend skills.
