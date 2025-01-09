@@ -55,7 +55,7 @@ I’m a full-stack developer exploring new tech—currently diving into **React/
 ---
 
 ## 🚀 **My Tech Stack**
-- **Languages**: Python, JavaScript, C
+- **Languages**: Python, C, JavaScript, HTML, CSS
 - **Frameworks**: Django, Django REST Framework, Flask, React
 - **APIs**: Consuming and creating RESTful APIs
 - **Databases**: MySQL, PostgreSQL
