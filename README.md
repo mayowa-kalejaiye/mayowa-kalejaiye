@@ -52,7 +52,7 @@ I'm also deep in the **Fintech** game! Payments, financial security, and digital
 
 ![Projects](https://media.giphy.com/media/Y2ZUWLrTy63j9T6qrK/giphy.gif)
 
-More cool projects on the way, trust me. 👀
+More cool projects on the way, trust me. 👀 some are even private🌚
 
 ---
 
