@@ -1,83 +1,102 @@
-# 👋 Hi, I’m **@mayowa-kalejaiye**
-![Profile Views](https://komarev.com/ghpvc/?username=mayowa-kalejaiye&color=blueviolet)
+# 👋 Yo, I'm **Mayowa Kalejaiye**
+![Profile Views](https://komarev.com/ghpvc/?username=mayowa-kalejaiye&style=flat-square&color=blueviolet)
+
 ---
 
-## 👀 **Interests**
-I’m passionate about **Backend Development** and building innovative digital solutions that enhance functionality and performance! I enjoy tackling the challenges of server-side processes and creating robust APIs.
+## 🚀 Who Am I?  
+Alright, let’s keep it real. I’m Mayowa, a **Backend Developer** who loves making things work behind the scenes. APIs? I build them. Databases? I optimize them. Performance issues? I debug them at 2 AM (not proud of that, but hey, it works). 
+
+I'm also deep in the **Fintech** game! Payments, financial security, and digital banking fascinate me. Warpspeed training boosted my knowledge here, and I’m constantly leveling up. Let’s build something disruptive! 💸🔥  
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
+## 🔥 Tech Stack
+
+### 🛠️ **Languages & Frameworks:**
+- **Backend:** Python, Django, Django REST Framework, Flask, FastAPI  
+- **Frontend:** JavaScript, React, Next.js, Tailwind CSS  
+- **Database:** PostgreSQL, MySQL  
+- **Other:** C, HTML, CSS, Figma
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,react,nextjs,tailwind,html,css" />
+</p>
+
+### ⚙️ **Tools & Technologies:**
+- **Version Control:** Git, GitHub  
+- **Deployment & DevOps:** Docker (learning), Railway, Render  
+- **Cloud & Hosting:** DigitalOcean, AWS (exploring)  
+- **APIs:** RESTful APIs, WebSockets  
+- **IDEs & Editors:** VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postgresql,mysql,docker,aws,vscode,figma" />
+</p>
 
 ---
 
 ## 🌱 **Currently Improving**
-- **Django & Django REST Framework**: Exploring advanced features and API development.
-- **Flask**: Building and consuming APIs, with plans to create my own.
-- **React/JS**: Learning front-end technologies to complement my backend skills.
-- **MySQL**: Coming up next on my tech journey!  
-- **PostgreSQL**: Diving into data management and relationships.  
-- **Figma**: Crafting designs to enhance user experiences.  
-- **C Programming**: Sharpening my foundational programming skills.  
-- **Python**: Building robust back-end applications.  
+- **Django & DRF Magic** – Better API security, caching, performance.
+- **FastAPI Superpowers** – Async programming, high-speed APIs.
+- **Frontend Sorcery** – Next.js, better UI/UX.
+- **DevOps Madness** – Automated deployments (goodbye, manual stress!).
+- **Fintech Wizardry** – Secure transactions, payment gateways, finance APIs.
 
 ---
 
-## 💞 **Let’s Collaborate!**
-I’m eager to team up on:
-- Backend-focused web development projects  
-- API development  
-- Creative digital solutions  
-- **Startup Projects**: Excited to collaborate on innovative ideas and turn them into reality!
+## 💡 **Cool Stuff I’ve Built**
+- **[HelpHub](https://github.com/mayowa-kalejaiye/helphub)** – A real-time help request platform. 🚀  
+- **[Moodify](https://github.com/mayowa-kalejaiye/moodify)** – Recommends songs based on mood (Spotify API in action). 🎵  
+- **Flet Calculator** – Just a calculator, but hey, it works! 🧮  
+- **Fintech API Prototype** – Exploring transaction security & payment gateways. 💳  
 
-I’m open to learning and contributing in **Django**, **Flask**, **React**, and sharing ideas with other passionate developers!
+![Projects](https://media.giphy.com/media/Y2ZUWLrTy63j9T6qrK/giphy.gif)
 
----
-
-## 📫 **How to Reach Me**
-Feel free to connect:
-- Email: [Kalejaiyemayowa3@gmail.com](mailto:Kalejaiyemayowa3@gmail.com)  
-- School Email: [oluwamayowa.kalejaiye@miva.edu.ng](mailto:oluwamayowa.kalejaiye@miva.edu.ng)  
+More cool projects on the way, trust me. 👀
 
 ---
 
-## 😄 **Pronouns**
-He/Him
+## 🤝 **Wanna Team Up?**
+I'm open to working on:
+- Backend-heavy projects (Django, Flask, FastAPI)  
+- API dev & integrations  
+- Full-stack apps (React, Next.js, Tailwind CSS)  
+- **Fintech Innovations** – Payments, wallets, security, etc.  
+- **Startup Ideas** – Let’s build something game-changing!  
 
 ---
 
-## ⚡ **Fun Fact**
-I’m a full-stack developer exploring new tech—currently diving into **React/JS** while focusing on backend development! Plus, I’m an anime enthusiast! 🎉
-
-> "In a world full of trends, I want to remain a classic." — I strive to build timeless solutions!
-
----
-
-## 🌟 **Favorite Quote**
-> “The best way to predict the future is to invent it.” – **Alan Kay** 
+## 📩 **Hit Me Up!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayowa-kalejaiye-27b560301/)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mayowakalejaiye)  
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kalejaiyemayowa3@gmail.com)  
 
 ---
 
-## 🚀 **My Tech Stack**
-- **Languages**: Python, C, JavaScript, HTML, CSS
-- **Frameworks**: Django, Django REST Framework, Flask, React
-- **APIs**: Consuming and creating RESTful APIs
-- **Databases**: MySQL, PostgreSQL
-- **Design**: Figma
-- **Tools**: Git, GitHub, Visual Studio Code
+## 📊 **GitHub Flex**
+![Mayowa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayowa-kalejaiye&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayowa-kalejaiye&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayowa-kalejaiye&theme=radical)  
 
 ---
 
-## 🌐 **Let’s Connect!**
-I’m always looking to expand my network. If you’re into tech, startups, or just want to chat, don’t hesitate to reach out!
-## GitHub Stats
+## 🔌 **Fancy GitHub Stuff**
+Wanna pimp your profile? Try these:
+- **Profile Views Counter**: `![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)`  
+- **GitHub Stats**: `https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical`  
+- **Most Used Languages**: `https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical`  
 
-![Mayowa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayowa-kalejaiye&show_icons=true&theme=radical)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayowa-kalejaiye-27b560301/)
-[![Dev](https://img.shields.io/badge/Dev-blue?style=for-the-badge&logo=Dev&logoColor=white)](https://dev.to/mayowakalejaiye)
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kalejaiyemayowa3@gmail.com)
 ---
 
-<!---
-mayowa-kalejaiye/mayowa-kalejaiye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎤 **A Saying That Defines Me**
+> "I don’t just solve problems—I make them regret existing in the first place." – **My Personal Dev Philosophy**
+
+---
+
+## 😆 **Fun Fact**
+I once deployed a project on a free-tier service, only for the database to ghost me when it hit the limit. I felt like a startup founder getting rugged. Lesson learned: Always read the fine print before trusting "free." 😅  
+
+![Anime Tech](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+---
+
