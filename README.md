@@ -16,7 +16,7 @@ I'm also deep in the **Fintech** game! Payments, financial security, and digital
 
 ### 🛠️ **Languages & Frameworks:**
 - **Backend:** Python, Django, Django REST Framework, Flask, FastAPI  
-- **Frontend:** JavaScript, React, Next.js, Tailwind CSS  
+- **Frontend:** JavaScript, React, Tailwind CSS  
 - **Database:** PostgreSQL, MySQL  
 - **Other:** C, HTML, CSS, Figma
 <p align="center">
