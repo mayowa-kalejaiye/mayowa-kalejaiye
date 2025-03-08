@@ -94,7 +94,7 @@ Wanna pimp your profile? Try these:
 ---
 
 ## 😆 **Fun Fact**
-I once deployed a project on a free-tier service, only for the database to ghost me when it hit the limit. I felt like a startup founder getting rugged. Lesson learned: Always read the fine print before trusting "free." 😅  
+I once deployed a project on a free-tier service, only for the database to ghost me when it hit the limit. I felt like a startup founder getting rugged. Lesson learned: Always read the fine print before trusting "free." 😭  
 
 ![Anime Tech](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
