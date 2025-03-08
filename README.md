@@ -20,7 +20,7 @@ I'm also deep in the **Fintech** game! Payments, financial security, and digital
 - **Database:** PostgreSQL, MySQL  
 - **Other:** C, HTML, CSS, Figma
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,react,tailwind,html,css" />
 </p>
 
 ### ⚙️ **Tools & Technologies:**
