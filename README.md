@@ -54,7 +54,6 @@ I am a highly motivated **Backend Engineer** with a passion for building scalabl
 ## 🎓 Education & Certifications
 - 🎓 **BSc in Computer Science (Ongoing)** – *CGPA: 4.91/5.0*  
 - 🚀 **Warpspeed Tech Bootcamp Graduate** – *Intensive training in fintech solutions & cloud engineering.*  
-- 📜 **HNG Internship Finalist** – *Built and deployed production-grade APIs & integrations.*  
 
 ---
 
