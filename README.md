@@ -60,7 +60,7 @@ I am a highly motivated **Backend Engineer** with a passion for building scalabl
 ## 🚀 Cool Stuff I’ve Built
 - **[HelpHub](https://github.com/mayowa-kalejaiye/helphub)** – A real-time help request platform. 🚀  
 - **[Moodify](https://github.com/mayowa-kalejaiye/moodify)** – Recommends songs based on mood (Spotify API in action). 🎵  
-- **Fintech API Prototype** – Exploring transaction security & payment gateways. 💳  
+- **[Multi-Bank-Integration](https://github.com/mayowa-kalejaiye/multi-bank-integration.git)** – A modular Python banking system for multi-bank account integration with advanced features like account linking, loan management, and AI services. 💳  
 - **Telex Integration** – Built a seamless integration for automated task execution. ⚡
 
 ![Projects](https://media.giphy.com/media/Y2ZUWLrTy63j9T6qrK/giphy.gif)
