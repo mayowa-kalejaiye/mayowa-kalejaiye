@@ -1,4 +1,4 @@
-# 👋 Yo, I'm **Mayowa Kalejaiye**
+# 👋 Hi, I'm **Mayowa Kalejaiye**
 ![Profile Views](https://komarev.com/ghpvc/?username=mayowa-kalejaiye&style=flat-square&color=blueviolet)
 
 ---
