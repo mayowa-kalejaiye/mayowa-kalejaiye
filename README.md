@@ -41,31 +41,107 @@ I am a highly motivated **Backend Engineer** with a passion for building scalabl
 ---
 
 ## 💼 Work Experience
-### **Backend Developer | Freelance**  
-📅 *2023 - Present*  
-- Designed and developed RESTful APIs for various applications, ensuring high performance and scalability.
-- Built **HelpHub**, a real-time help request platform, optimizing WebSocket-based communication.
-- Worked on **fintech APIs**, implementing secure payment gateways and fraud detection systems.
-- Deployed applications using **Docker, Railway, and Render**, improving CI/CD workflows.
-- Enhanced database performance with optimized queries, indexing, and caching strategies.
+### ** Backend Engineering Lead Intern – CuratED (TCU 7.0 Cohort)** 
+#### Techies Upskill and Collaborate (TCU) | May 2025 – July 2025
+`Led the backend engineering team for CuratED, an educational content personalization platform.`
+- Designed RESTful APIs using Django + DRF
+- Oversaw Git workflow and code reviews
+- Collaborated across teams (frontend, product, design)
+- Balanced delivery with academic exam season
+- Built systems with clarity, empathy, and scale in mind
+
+### Backend Developer – E-commerce Startup 
+#### Freelance | March 2024 – May 2024
+`Worked on backend structure and product data systems for an e-commerce jewelry store.`
+- Modeled product data and implemented admin control
+- Improved database queries and structured endpoints for analytics
+- Handled backend fixes and improved DB structure using Django
+
+### Frontend Trainee – New Horizons Nigeria
+#### Training Program | Feb 2025 – Apr 2025
+`Hands-on training in responsive web development using core frontend tools.`
+- Built layouts with HTML, CSS (Flex/Grid)
+- Implemented JavaScript interactivity and debugging tasks
+- Completed real UI assignments and personal projects
+
+### HNG Internship (Stage 1–3)
+#### HNG Internship | July 2024 – Sep 2024
+`Completed backend engineering challenges using Python and FastAPI.`
+- Built project tasks within strict timeframes
+- Practiced API structuring, Git workflow, and delivery communication
+- Reached Stage 3 with multiple backend submissions
+
+### Backend Trainee – Cophild Technologies
+#### Training Program | Jan 2024 – March 2024
+`Focused fullstack training with hands-on backend projects.`
+- Built with Python, SQLite, React, Git & GitHub
+- Participated in team challenges and code walkthroughs
+- Earned certification in fullstack fundamentals
+
+### Global HealthTech Dev Track
+#### Miva Open University × Alabama A&M × MIT Pune | Oct 2024 – Present
+`Selected for international student engineering program focused on health-tech in Africa.`
+- Working with global teams on real product prototypes
+- Emphasis on backend design, async collaboration, and scalable systems
 
 ---
 
-## 🎓 Education & Certifications
-- 🎓 **BSc in Computer Science (Ongoing)** – *CGPA: 4.91/5.0*  
-- 🚀 **Warpspeed Tech Bootcamp Graduate** – *Intensive training in fintech solutions & cloud engineering.*  
+## 🚀 Projects
+
+### 📌 MultiBank Modular Backend System  
+**Tech Stack:** Python (modular architecture)  
+A backend simulation of multi-bank integration for future financial products.
+
+- Designed account linking, fund transfers, loan management, and credit scoring modules  
+- Built with modular architecture for extensibility and clean code reuse  
+- Laid groundwork for AI-powered recommendation and behavior analysis
 
 ---
 
-## 🚀 Cool Stuff I’ve Built
-- **[HelpHub](https://github.com/mayowa-kalejaiye/helphub)** – A real-time help request platform. 🚀  
-- **[Moodify](https://github.com/mayowa-kalejaiye/moodify)** – Recommends songs based on mood (Spotify API in action). 🎵  
-- **[Multi-Bank-Integration](https://github.com/mayowa-kalejaiye/multi-bank-integration.git)** – A modular Python banking system for multi-bank account integration with advanced features like account linking, loan management, and AI services. 💳  
-- **Telex Integration** – Built a seamless integration for automated task execution. ⚡
+### 📌 MoodSync – AI-Powered Mood Reflection App *(Backend Only)*  
+**Tech Stack:** Django, Google’s Gemini API, Python  
+A journaling backend that interprets user moods and suggests reflections using LLMs.
 
-![Projects](https://media.giphy.com/media/Y2ZUWLrTy63j9T6qrK/giphy.gif)
+- Integrated Google’s Gemini API to analyze journal entries  
+- Engineered prompt structures for emotional context and accuracy  
+- Built APIs for user auth, mood tracking, and personalized suggestions  
+> 🚧 *Currently in private development – frontend in progress*
 
-More cool projects on the way, trust me. 👀 some are even private🌚
+---
+
+### 📌 CuratED – Educational Content Aggregator *(Team Project)*  
+**Tech Stack:** Django, Django REST Framework  
+Built as part of TCU 7.0 internship cohort to serve personalized learning content.
+
+- Led backend development: user auth, content tagging, and personalization features  
+- Managed Git collaboration, reviews, and codebase quality  
+- Balanced delivery with academic deadlines and remote team coordination
+
+
+---
+
+## 🎓 Education
+
+### B.Sc. Software Engineering *(In Progress)*  
+**Miva Open University**  
+*2024 – 2026*  
+Focus: Full-stack development, system design, algorithms, and backend architecture
+
+### Global HealthTech Developer Track *(Collaborative Program)*  
+**Miva × Alabama A&M (USA) × MIT Pune (India)**  
+*2024 – Present*  
+Selected for a global dev program building health-tech solutions for African communities  
+- Focus on collaboration, backend systems, and product prototyping in health innovation  
+
+---
+
+## 📜 Certifications & Trainings
+
+- **Registered Trainee Software Engineer** — *International Computer Institute for Tech Professionals (ICITP)*
+- **Cophild Technologies Certificate**  
+  Completed structured fullstack training in:  
+  ▪ Python ▪ SQLite ▪ Advanced JavaScript ▪ React ▪ Git & GitHub
+- **Generative AI with LLMs** — *DeepLearning.AI (Coursera)* *(Ongoing)*
 
 ---
 
