@@ -6,13 +6,10 @@
 ## 🚀 Who Am I?
 
 Alright, let’s keep it real. I’m Mayowa — a backend-focused full-stack developer who enjoys making things work behind the scenes.
-
 APIs? I build them. Databases? I optimize them. Strange bugs at 2 AM? I debug them (not proud, but it works).
+My stack? *Python*, *Django*, *PostgreSQL* on the backend. *React* on the frontend. I care about clean code, readable systems, and building things that last.
 
-My stack? Python, Django, PostgreSQL on the backend. React on the frontend. I care about clean code, readable systems, and building things that last.
-
-Recently, I’ve been exploring how AI (LLMs, prompt engineering) fits into backend systems — from reflection engines to content personalization.
-
+Recently, I’ve been *exploring how AI* (LLMs, prompt engineering) fits into backend systems — from reflection engines to content personalization.
 It’s not just about writing code. It’s about thinking in systems, collaborating with people, and shipping solutions that make sense.
 
 Let’s build something thoughtful.
