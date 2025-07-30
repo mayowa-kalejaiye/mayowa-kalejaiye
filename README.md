@@ -3,10 +3,19 @@
 
 ---
 
-## 🚀 Who Am I?  
-Alright, let’s keep it real. I’m Mayowa, a **Backend Developer** who loves making things work behind the scenes. APIs? I build them. Databases? I optimize them. Performance issues? I debug them at 2 AM (not proud of that, but hey, it works). 
+## 🚀 Who Am I?
 
-I'm also deep in the **Fintech** game! Payments, financial security, and digital banking fascinate me. Warpspeed training boosted my knowledge here, and I’m constantly leveling up. Let’s build something disruptive! 💸🔥  
+Alright, let’s keep it real. I’m Mayowa — a backend-focused full-stack developer who enjoys making things work behind the scenes.
+
+APIs? I build them. Databases? I optimize them. Strange bugs at 2 AM? I debug them (not proud, but it works).
+
+My stack? Python, Django, PostgreSQL on the backend. React on the frontend. I care about clean code, readable systems, and building things that last.
+
+Recently, I’ve been exploring how AI (LLMs, prompt engineering) fits into backend systems — from reflection engines to content personalization.
+
+It’s not just about writing code. It’s about thinking in systems, collaborating with people, and shipping solutions that make sense.
+
+Let’s build something thoughtful.
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
