@@ -2,8 +2,6 @@
 
 **Backend & AI Engineer** | 18 | Lagos, Nigeria  
 
-Building in public. Shipping not so messy. Going hard.
-
 ---
 
 ## Currently Building
