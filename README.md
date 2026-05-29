@@ -16,9 +16,9 @@ Currently building a rich interactive **Canvas experience** (Miro-style) with dr
 ---
 
 ## Previously Shipped
-- **ClosetAI** — AI-powered outfit generator
-- **Pinpoint** — web app for fast driver–customer pick‑up coordination
-- **FormHook** — API platform for validating and storing web form submissions
+- **ClosetAI** — AI-powered outfit generator: https://closetai-three.vercel.app/
+- **Pinpoint** — web app for fast driver–customer pick‑up coordination: https://pinpnt.vercel.app/
+- **FormHook** — API platform for validating and storing web form submissions: https://formhookapp.vercel.app/
 
 ---
 
