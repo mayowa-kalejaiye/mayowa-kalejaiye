@@ -20,26 +20,6 @@ Currently building a rich interactive **Canvas experience** (Miro-style), List &
 
 ---
 
-## What I Work With
-
-**Backend & AI**  
-Python · FastAPI · PostgreSQL · SQLModel · Supabase · Docker
-
-**Frontend**  
-React · NextJS · Tailwind CSS · Shadcn/ui
-
-**Others**  
-Git · Cloudinary · LLM Integration · Docker · Vercel
-
----
-
-## Where I Work
-
-**Zummit Africa** — AI & Backend Engineer (Intern)  
-Building core backend services and AI platform features using Python, FastAPI, and service-repository architecture.
-
----
-
 ## Find me
 
 - **X**: [@MayowaSWE](https://x.com/MayowaSWE)
