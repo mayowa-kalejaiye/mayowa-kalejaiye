@@ -11,7 +11,7 @@ Building in public. Shipping not so messy. Going hard.
 ### **Waypoint** (Main Focus)
 An adaptive AI learning platform that takes your learning goal and generates **personalized, sequenced curriculums** using the best videos, papers, repos, and documentation.
 
-Currently building a rich interactive **Canvas experience** (Miro-style) with draggable cards, glowing connection lines, List & Timeline views.
+Currently building a rich interactive **Canvas experience** (Miro-style), List & Timeline views.
 
 ---
 
