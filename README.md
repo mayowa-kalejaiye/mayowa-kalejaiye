@@ -40,16 +40,6 @@ Building core backend services and AI platform features using Python, FastAPI, a
 
 ---
 
-## Stats
-
-![Mayowa's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=mayowa-kalejaiye&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=mayowa-kalejaiye&layout=compact&theme=radical)
-
-
-
----
-
 ## Find me
 
 - **X**: [@MayowaSWE](https://x.com/MayowaSWE)
