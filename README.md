@@ -1,46 +1,64 @@
 # Mayowa Kalejaiye
 
-Backend & AI Engineer. 18. Building things that actually ship.
+**Backend & AI Engineer** | 18 | Lagos, Nigeria  
 
-Currently interning at Zummit Africa and building ClosetAI —
-an AI-powered outfit generator that helps you get dressed 
-without the decision fatigue.
+Building in public. Shipping not so messy. Going hard.
 
 ---
 
-## What I work with
+## Currently Building
 
-Python · FastAPI · PostgreSQL · SQLModel · Cloudinary · Supabase
-React · Tailwind CSS · Docker · Git
+### **Waypoint** (Main Focus)
+An adaptive AI learning platform that takes your learning goal and generates **personalized, sequenced curriculums** using the best videos, papers, repos, and documentation.
 
----
-
-## What I'm building
-
-### ClosetAI
-Upload your clothes. Get outfit suggestions. No decision fatigue.
-Built with FastAPI, PostgreSQL, Cloudinary, and Gemini.
-→ [Live soon]
+Currently building a rich interactive **Canvas experience** (Miro-style) with draggable cards, glowing connection lines, List & Timeline views.
 
 ---
 
-## Where I work
+## Previously Shipped
+- **ClosetAI** — AI-powered outfit generator
+- **Pinpoint** — web app for fast driver–customer pick‑up coordination
+- **FormHook** — API platform for validating and storing web form submissions
 
-### Zummit Africa — AI & Backend Engineer
-Building core backend services and APIs for an AI platform.
-Python, FastAPI, service-repository architecture, pytest.
+---
+
+## What I Work With
+
+**Backend & AI**  
+Python · FastAPI · PostgreSQL · SQLModel · Supabase · Docker
+
+**Frontend**  
+React · NextJS · Tailwind CSS · Shadcn/ui
+
+**Others**  
+Git · Cloudinary · LLM Integration · Docker · Vercel
+
+---
+
+## Where I Work
+
+**Zummit Africa** — AI & Backend Engineer (Intern)  
+Building core backend services and AI platform features using Python, FastAPI, and service-repository architecture.
 
 ---
 
 ## Stats
 
-![Mayowa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayowa-kalejaiye&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayowa-kalejaiye&layout=compact&theme=radical)
+![Mayowa's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=mayowa-kalejaiye&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=mayowa-kalejaiye&layout=compact&theme=radical)
+
+
 
 ---
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/mayowa-kalejaiye) · 
-[X](https://x.com/mayowa_kal_) · 
-kalejaiyemayowa3@gmail.com
+- **X**: [@MayowaSWE](https://x.com/MayowaSWE)
+- **Portfolio**: [mayowa-kalejaiye.vercel.app](https://mayowa-kalejaiye.vercel.app)
+- **LinkedIn**: [Mayowa Kalejaiye](https://www.linkedin.com/in/mayowa-kalejaiye)
+- **Email**: kalejaiyemayowa3@gmail.com
+
+---
+
+**Currently learning in public, making mistakes in public, and shipping in public.**
