@@ -1,32 +1,65 @@
 # Mayowa Kalejaiye
 
-**Backend & AI Engineer** | 18 | Lagos, Nigeria  
+**Software & AI Engineer** | Lagos, Nigeria
+
+Building products. Studying AI systems. Learning in public.
 
 ---
 
-## Currently Building
+## Current Focus
 
-### **Waypoint** (Main Focus)
-An adaptive AI learning platform that takes your learning goal and generates **personalized, sequenced curriculums** using the best videos, papers, repos, and documentation.
+Over the last few years, I've built products across backend engineering and applied AI.
 
-Currently building a rich interactive **Canvas experience** (Miro-style), List & Timeline views.
+Recently, I've become interested in going deeper into the systems behind modern AI rather than only building on top of them.
 
----
+Current areas of study:
 
-## Previously Shipped
-- **ClosetAI** — AI-powered outfit generator: https://closetai-three.vercel.app/
-- **Pinpoint** — web app for fast driver–customer pick‑up coordination: https://pinpnt.vercel.app/
-- **FormHook** — API platform for validating and storing web form submissions: https://formhookapp.vercel.app/
-
----
-
-## Find me
-
-- **X**: [@MayowaSWE](https://x.com/MayowaSWE)
-- **Portfolio**: [mayowa-kalejaiye.vercel.app](https://mayowa-kalejaiye.vercel.app)
-- **LinkedIn**: [Mayowa Kalejaiye](https://www.linkedin.com/in/mayowa-kalejaiye)
-- **Email**: kalejaiyemayowa3@gmail.com
+* Transformer architectures
+* Language models
+* Mechanistic interpretability
+* AI evaluation systems
+* Machine learning fundamentals
+* Backend and distributed systems
 
 ---
 
-**Currently learning in public, making mistakes in public, and shipping in public.**
+## Projects
+
+### Waypoint
+
+Adaptive AI learning platform that generates personalized learning paths from videos, papers, repositories, and documentation.
+
+### ClosetAI
+
+AI-powered outfit recommendation system.
+
+### PinPoint
+
+Driver–customer pickup coordination platform.
+
+### FormHook
+
+API platform for validating and storing web form submissions.
+
+---
+
+## What You'll Find Here
+
+* Backend engineering projects
+* AI experiments
+* Learning projects
+* Research replications
+* Notes from papers and implementations
+
+---
+
+## Connect
+
+* X: @MayowaSWE
+* Portfolio: mayowa-kalejaiye.vercel.app
+* LinkedIn: /in/mayowa-kalejaiye
+* Email: [kalejaiyemayowa3@gmail.com](mailto:kalejaiyemayowa3@gmail.com)
+
+---
+
+Currently building in public, learning in public, and occasionally realizing I need to go much deeper.
